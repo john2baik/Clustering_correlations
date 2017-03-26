@@ -10,4 +10,4 @@ k = number of clusters to be created
 Threshold = Minimum percentage of difference before new clustering stops.
 
 Example: 5 -> Minimum of 5% difference between new and old cluster centroids before creating new cluster required.
-# of tuples to show = How many tuples to be returned during file creation for ease of read.
+number of tuples to show = How many tuples to be returned during file creation for ease of read.
